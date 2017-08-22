@@ -1,0 +1,56 @@
+div{
+   background-color: dimgrey;
+}
+ul{
+    background-color: red;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    list-style: none;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover{
+    color: green;
+}
+
+img {
+    margin: 20px;
+    align-items: center;;
+    height: 200px;
+    width: 200px;
+}
+img {
+    visibility: hidden;
+    visibility: inherit;
+}
+
+.btn {
+    background-color: red;
+}
+
+clase1{
+    height: 40px;
+    color: #FFFCFA;
+    padding: 7px;
+}
+clase2{
+    height: 40px;
+    color: #FFFCFA;
+    padding: 7px;
+}
+
+
+
+footer{
+    text-align: center;
+    height: 70px;
+    background: black;
+    color: #FFFCFA;
+    padding-top: 7px;
+}
